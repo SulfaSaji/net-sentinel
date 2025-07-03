@@ -89,6 +89,7 @@ Network-Intrusion-Detection-System/
 ├── sample_http.csv
 ├── netshield2.ipynb
 ├── train.py
+├── nids.pptx 
 └── README.md
 ```
 
@@ -200,5 +201,6 @@ This project is developed with **All Rights Reserved** by the authors and is not
 
 ## 🙌 Acknowledgements
 
-  * **Dataset:** The dataset used in this project was obtained from Kaggle.
-  * **Libraries:** This project makes use of various open-source Python libraries including `pandas`, `scikit-learn`, `numpy`, `imbalanced-learn`, and `streamlit`.
+* **Dataset:** The dataset used in this project was obtained from Kaggle.
+* **Libraries:** This project makes use of various open-source Python libraries including `pandas`, `scikit-learn`, `numpy`, `imbalanced-learn`, and `streamlit`.
+* **Presentation:** You can view or download the project presentation slides [here](nids.pptx).
