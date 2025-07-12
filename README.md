@@ -93,9 +93,11 @@ Network-Intrusion-Detection-System/
 ├── Network-Intrusion-Detection-System.pdf
 └── README.md
 ```
-📄 Documentation
-📘 Project Report: Network-Intrusion-Detection-System.pdf
-📑 Presentation Slides: nids.pptx
+## 📄 Documentation
+
+📘 **Project Report:** [Network-Intrusion-Detection-System.pdf](Network-Intrusion-Detection-System.pdf)  
+📑 **Presentation Slides:** [nids.pptx](nids.pptx)
+
 -----
 
 ## ⚙️ Setup and Installation
