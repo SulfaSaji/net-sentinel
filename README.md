@@ -12,7 +12,7 @@ This project develops an **AI-driven Network Intrusion Detection System (NIDS)**
 
 ## ✨ Features & Goals
 
-The primary objectives and capabilities of this NIDS include:
+The primary objectives and capabilities of this NIDS include: 
 
   * **AI-Powered Network Traffic Classification:** An AI/ML model automatically categorizes network traffic from uploaded CSV files based on learned behavior and patterns.
   * **User-Friendly Web Interface (Streamlit):** An intuitive web application for easy CSV file upload, classification, result viewing, and downloading of classified data.
