@@ -240,4 +240,4 @@ This project was developed as part of the Intel® Unnati Training Program and is
 
 * **Dataset:** The dataset used in this project was obtained from Kaggle.
 * **Libraries:** This project makes use of various open-source Python libraries including `pandas`, `scikit-learn`, `numpy`, `imbalanced-learn`, and `streamlit`.
-* **Presentation:** You can view or download the project presentation slides [here](nids.pptx).
+* **Presentation:** You can view or download the project presentation slides [here](docs/nids.pptx).
