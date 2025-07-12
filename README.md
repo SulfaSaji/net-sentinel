@@ -231,7 +231,8 @@ These challenges do not diminish the effectiveness of the system in its current 
 
 ## 📄 License
 
-This project is developed with **All Rights Reserved** by the authors and is not currently distributed under an open-source license.
+© 2025 Netshield Team. All rights reserved.  
+This project was developed as part of the Intel® Unnati Training Program and is submitted solely for educational and evaluation purposes.  
 
 -----
 
