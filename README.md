@@ -231,7 +231,7 @@ These challenges do not diminish the effectiveness of the system in its current 
 
 ## 📄 License
 
-© 2025 Netshield Team. All rights reserved.  
+© 2025 NetShield Team. All rights reserved.  
 This project was developed as part of the Intel® Unnati Training Program and is submitted solely for educational and evaluation purposes.  
 
 -----
