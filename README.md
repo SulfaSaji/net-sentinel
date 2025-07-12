@@ -89,10 +89,13 @@ Network-Intrusion-Detection-System/
 ├── sample_http.csv
 ├── netshield2.ipynb
 ├── train.py
-├── nids.pptx 
+├── nids.pptx
+├── Network-Intrusion-Detection-System.pdf
 └── README.md
 ```
-
+📄 Documentation
+📘 Project Report: Network-Intrusion-Detection-System.pdf
+📑 Presentation Slides: nids.pptx
 -----
 
 ## ⚙️ Setup and Installation
