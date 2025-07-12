@@ -103,12 +103,6 @@ Network-Intrusion-Detection-System/
 📑 **Presentation Slides:** [nids.pptx](docs/nids.pptx)
 
 -----
-
-## 🎥 Demo
-
-[![Watch Demo](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-blue?style=for-the-badge)](media/Scrnrecord.mp4)
-
------
 ## ⚙️ Setup and Installation
 
 To get this project up and running on your local machine, follow these steps:
