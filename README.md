@@ -95,8 +95,8 @@ Network-Intrusion-Detection-System/
 ```
 ## 📄 Documentation
 
-📘 **Project Report:** [Network-Intrusion-Detection-System.pdf](Network-Intrusion-Detection-System.pdf)  
-📑 **Presentation Slides:** [nids.pptx](nids.pptx)
+📘 **Project Report:** [docs/Network-Intrusion-Detection-System.pdf](Network-Intrusion-Detection-System.pdf)  
+📑 **Presentation Slides:** [docs/nids.pptx](nids.pptx)
 
 -----
 
