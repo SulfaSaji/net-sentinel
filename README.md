@@ -188,6 +188,34 @@ This script will:
 
 -----
 
+## Limitations: Challenges and Constraints
+
+The current implementation of the Network Intrusion Detection System (NIDS) is effective on benchmark datasets and provides a solid framework for intrusion detection. However, like many initial research and development efforts, it faces a set of practical challenges and constraints that define its current scope and inform future development directions:
+
+### 🔄 Offline Processing on Static Datasets  
+The system operates on pre-processed network traffic from static CSV files (e.g., CIC-IDS2017). While this allows for efficient evaluation and repeatability, it does not yet support real-time analysis of live network traffic, which is essential for immediate threat response in operational environments.
+
+### 📅 Dataset Timeliness and Representativeness  
+The CIC-IDS2017 dataset offers a rich variety of attack scenarios, but it reflects traffic patterns and threat behaviors from 2017. As cyber threats continue to evolve, newer datasets may be required to ensure continued effectiveness against emerging intrusion techniques.
+
+### 🧪 Simulated Environment Bias  
+The training data was generated in a simulated, controlled environment, which may not capture the full complexity and unpredictability of real-world network traffic. This difference can impact the model's performance when deployed in diverse, dynamic environments.
+
+### ⚖ Class Imbalance Challenges (Despite SMOTE)  
+Although class imbalance was addressed using SMOTE, certain low-frequency attack types remain underrepresented. This may affect the model’s ability to generalize well to rare or novel intrusion patterns.
+
+### 🚫 Lack of Real-time Response Capabilities  
+The current system is focused on accurate detection and classification of network intrusions. It does not yet include automated response mechanisms such as blocking IP addresses, isolating infected hosts, or triggering alerts, which would enhance its practical utility in real-time defense systems.
+
+### 🧠 Interpretability of Predictions  
+Random Forest models offer a degree of interpretability compared to more complex models. However, providing clearer insights into the decision-making process behind each prediction would be beneficial in critical security applications where human analysts rely on model explanations for action.
+
+---
+
+These challenges do not diminish the effectiveness of the system in its current context; instead, they provide valuable guidance for its future evolution toward a real-time, deployable, and fully autonomous security solution.
+
+-----
+
 ## 🔮 Future Work
 
   * **Robust Input Handling:** Enhance `app.py` to robustly handle various CSV file structures and provide more user-friendly error messages.
