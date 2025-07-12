@@ -4,6 +4,8 @@
 
 ## 🚀 Project Overview
 
+🎥 [**Watch Demo Video**](https://drive.google.com/file/d/1LDvS-mt5hdDOO9JBk0OGxlVXarddv09f/view?usp=sharing)
+
 This project develops an **AI-driven Network Intrusion Detection System (NIDS)** designed to identify and classify various types of network attacks (e.g., DoS, DDoS, Web Attacks, Port Scans). It features a user-friendly Streamlit web interface, allowing users to upload CSV files for classification. Leveraging machine learning techniques, the system aims to enhance network security by detecting anomalies and malicious activities with high accuracy and efficiency, specifically focusing on minimizing false negatives for critical attack types. The application allows users to upload a dataset, get it classified, view classification accuracy, and download the classified results.
 
 -----
@@ -82,9 +84,7 @@ Network-Intrusion-Detection-System/
 ├── processed_data/
 │   └── final_netshield_cleaned_scaled_dataset.parquet
 ├── utils/
-│   └── nids_core.py
-├── media/
-│   └── Scrnrecord.mp4      
+│   └── nids_core.py      
 ├── docs/
 │   ├── nids.pptx           
 │   └── Network-Intrusion-Detection-System.pdf 
