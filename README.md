@@ -83,15 +83,19 @@ Network-Intrusion-Detection-System/
 │   └── final_netshield_cleaned_scaled_dataset.parquet
 ├── utils/
 │   └── nids_core.py
+├── media/
+│   └── Scrnrecord.mp4      
+├── docs/
+│   ├── nids.pptx           
+│   └── Network-Intrusion-Detection-System.pdf 
 ├── .gitattributes
 ├── app.py
 ├── requirements.txt
 ├── sample_http.csv
 ├── netshield2.ipynb
 ├── train.py
-├── nids.pptx
-├── Network-Intrusion-Detection-System.pdf
 └── README.md
+
 ```
 ## 📄 Documentation
 
@@ -100,6 +104,11 @@ Network-Intrusion-Detection-System/
 
 -----
 
+## 🎥 Demo
+
+[![Watch Demo](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-blue?style=for-the-badge)](media/Scrnrecord.mp4)
+
+-----
 ## ⚙️ Setup and Installation
 
 To get this project up and running on your local machine, follow these steps:
